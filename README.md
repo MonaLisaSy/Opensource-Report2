@@ -5,6 +5,8 @@
     - 다수의 프로세스가 실행되면 CPU의 처리량이 많아지고 메모리 소비량이 높아진다는 문제점 발생 (top명령어로 해결)
     - 명령어를 종료하려면 키보드 q
 
+
+![이미지 URL](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png))
 #### 1. top
     - 현재 OS의 상태를 나타내주는 CLI 어플리케이션 명령어
     - 기본 형식: top [옵션]
